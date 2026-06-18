@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# 大体积刷机资源通过 GitHub Releases 分发
+images/OneUI-5.0-TabS6-Fixed-sparse.img
+images/OneUI-5.0-TabS6-Fixed-sparse.img.gz
+images/OneUI-5.0-TabS6-Fixed-sparse.img.gz.part-*
+recovery/
+modules/
+optional/
+
+# 原始工作目录与根目录遗留文件
+work/
+/OneUI-5.0-AB-13-20230208-NipponGSI.img.gz
+/heimdall
+/twrp-3.7.0_9-0-gts6lwifi.img
