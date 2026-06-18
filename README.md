@@ -1,6 +1,6 @@
 # t860-ui5 — Galaxy Tab S6 Lite (SM-T860) One UI 5 刷机包
 
-> **本项目已结束支持。** 请前往 [主页](https://starlight4you.github.io/) 了解更新的 **One UI 6** 刷机包。
+> **本项目已结束支持。** 请前往 [t860-ui6](https://github.com/starlight4you/t860-ui6) 了解更新的 **One UI 6** 刷机包。
 
 为 **Samsung Galaxy Tab S6 Lite Wi‑Fi (SM-T860 / gts6lwifi)** 移植的 One UI 5 (Android 13) GSI 刷机包，包含已修复的 system 镜像、禁用 AVB 校验的 vbmeta、TWRP Recovery，以及可选的 Magisk 模块。
 
@@ -175,7 +175,7 @@ heimdall reboot
 
 - 刷机有风险，可能导致设备变砖或失去保修
 - 本包为社区移植项目，按「原样」提供，作者不对任何损失负责
-- 本项目已停止维护，请使用 [One UI 6 新版刷机包](https://starlight4you.github.io/)
+- 本项目已停止维护，请使用 [One UI 6 新版刷机包](https://github.com/starlight4you/t860-ui6)
 
 ## 致谢
 
