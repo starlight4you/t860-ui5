@@ -1,4 +1,4 @@
-# t860-ui5 — Galaxy Tab S6 Lite (SM-T860) One UI 5 刷机包
+# t860-ui5 — Galaxy Tab S6 (SM-T860) One UI 5 刷机包
 
 > **本项目已结束支持。** 请前往 [t860-ui6](https://github.com/starlight4you/t860-ui6) 了解更新的 **One UI 6** 刷机包。
 
